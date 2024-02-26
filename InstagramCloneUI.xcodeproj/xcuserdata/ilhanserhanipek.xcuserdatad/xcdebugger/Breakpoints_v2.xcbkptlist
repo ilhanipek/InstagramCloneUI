@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB5052A4-412D-4774-A9DE-726C3EC42863"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3160A168-6446-45ED-B744-C8B0102C2043"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramCloneUI/Core/Feed/ViewModel/FeedViewModel.swift"
+            startingColumnNumber = "25"
+            endingColumnNumber = "25"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "dislikePost(firstImageUrl:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3160A168-6446-45ED-B744-C8B0102C2043 - 6cf9623413df60bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramCloneUI.FeedViewModel.dislikePost(firstImageUrl: Swift.String) async throws -&gt; ()"
+                  moduleName = "InstagramCloneUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilhanserhanipek/Desktop/XcodeProjects/SwiftUI/InstagramCloneUI/InstagramCloneUI/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+               <Location
+                  uuid = "3160A168-6446-45ED-B744-C8B0102C2043 - 226c5ee7d11d0cb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for InstagramCloneUI.FeedViewModel.dislikePost(firstImageUrl: Swift.String) async throws -&gt; ()"
+                  moduleName = "InstagramCloneUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilhanserhanipek/Desktop/XcodeProjects/SwiftUI/InstagramCloneUI/InstagramCloneUI/Core/Feed/ViewModel/FeedViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
